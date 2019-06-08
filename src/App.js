@@ -1,9 +1,8 @@
 import React from 'react'
+import { MapSVG } from './components/MapSVG/index'
 
 const App = () => (
-  <div>
-    <h1>Czech Sculptures</h1>
-  </div>
+  <MapSVG />
 )
 
 export { App }

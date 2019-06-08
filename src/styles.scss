@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+  height: 100%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #fefccd;
+  height: 100%;
+  margin: 0;
+}
+
+.app {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+}

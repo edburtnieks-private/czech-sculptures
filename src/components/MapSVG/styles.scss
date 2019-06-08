@@ -1,0 +1,12 @@
+.map {
+  width: 50%;
+  height: 50%;
+}
+
+.map__segment {
+  cursor: pointer;
+
+  &:hover {
+    fill: #d72319;
+  }
+}
